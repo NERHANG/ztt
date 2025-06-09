@@ -1,0 +1,56 @@
+{
+    "fromMe": [{
+        "id": "0000",
+        "details": [
+            [
+                "💐💐💐愿你快乐💐💐💐",
+                "我的宝贝😘",
+                "🌹🌹🌹送你花花🌹🌹🌹",
+                "<pre>🍀🍀🍀🌹🍀🍀🍀🌹🍀🍀🍀 \n🍀🍀🌹🌹🌹🍀🌹🌹🌹🍀🍀 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🍀🍀🌹🌹🌹🌹🌹🌹🌹🍀🍀 \n🍀🍀🍀🌹🌹🌹🌹🌹🍀🍀🍀 \n🍀🍀🍀🍀🍀🌹🍀🍀🍀🍀🍀</pre>",
+                "好想见面不在网恋📅",
+                "十分十分想念😘",
+                "<img src='img/love-the-girl.jpg'>",
+                "你说你已经深深沦陷🤔",
+                "我怎么能视而不见，哈哈给你看看帅气的老公",
+                "<img src='img/news-wuhanfeiyan.jpg'>",
+                "哈哈想与你来一场轰轰烈烈的恋爱😂",
+                "<img src='img/separate.jpeg'>",
+                "稍等一下🙂",
+                "让我再看一眼你的照片😘",
+                "<img src='img/in-sichuan.jpeg'>",
+                "想跟你每天在一起📅",
+                "哈哈，让我感到十分期待📬",
+                "<img src='img/lucky-me.jpg'>",
+                "想给你做早餐🍲",
+                "<img src='img/breakfast.jpg'>",
+                "想跟你一起锻炼🛹",
+                "<img src='img/exercise-together.jpg'>",
+                "想跟你一起旅游，去看日照金山🚂",
+                "<img src='img/travel.jpg'>",
+                "哈哈我们的脚印何时能一起出现🎠",
+                "<img src='img/foot.jpg'>",
+                "永远在一起的誓言💑",
+                "我想一定会实现😍",
+                "<img src='img/marry-me.png'>",
+                "希望你能陪我到最后，然后嫁给我💍，哈哈我是不是太贪心了"
+            ]
+        ],
+        "responses": [{
+            "content": "我愿意",
+            "nextAuthor": ["0001"]
+        }]
+    }, {
+        "id": "0001",
+        "details": [
+            [
+                "<img src='img/kiss-my-princess.png'>",
+                "宝贝我好开心呀😁",
+                "期待今后每一天的相见😍",
+                "你都是我的初恋😘",
+                "给你的那些承诺😙",
+                "我都会一一兑现😉"
+            ]
+        ]
+    }],
+    "fromUser": []
+}
